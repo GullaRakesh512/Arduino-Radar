@@ -95,13 +95,7 @@ Detected objects are plotted in real-time on a radar-like display.
 
 Provides a clear visualization of object presence and distance.
 
-🔌 Circuit Diagram
 
-(Insert your circuit diagram image here)
-
-📷 Demo Screenshot
-
-(Insert radar output screenshot here)
 
 🚀 Applications
 
